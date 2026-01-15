@@ -1,0 +1,9 @@
+kpi_name,value,trend,category
+Receita Total,21338,12.5,financeiro
+Custo Operacional,8450,-3.2,financeiro
+Margem de Lucro,60.3,8.7,financeiro
+ROI,145.2,15.4,financeiro
+Entregas Realizadas,1485,22.1,logistica
+Entregas Pendentes,318,-5.3,logistica
+Tempo Médio Entrega,2.4,-12.5,logistica
+Taxa de Sucesso,97.8,2.1,logistica
